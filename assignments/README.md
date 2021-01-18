@@ -1,9 +1,9 @@
 ## List of assignments (so far)
 ### Part I
-[Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
-[Queue](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
-[Collinear](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
-[Slider](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)
-[kd-tree](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php)
+[Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) <br>
+[Queue](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php) <br>
+[Collinear](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php) <br>
+[Slider](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php) <br>
+[kd-tree](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php) <br>
 ### Part II
-[WordNet](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php)
+[WordNet](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php) <br>
