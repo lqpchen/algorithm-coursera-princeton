@@ -10,7 +10,7 @@ public class HeapSort {
             sink(arr, p, n);
         }
 
-        // heap sort, O(n^2)
+        // heap sort, O(n*log(n))
         for (int i = n - 1; i >= 0; --i) {
             exch(arr, 0, i);
             sink(arr, 0, i);

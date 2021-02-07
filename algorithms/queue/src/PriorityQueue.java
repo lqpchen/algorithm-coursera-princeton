@@ -1,6 +1,7 @@
 /*
 maximum priority queue implementation based on binary heap
 which is more efficient than unordered array or linked list
+(Java has an PriorityQueue class but it's min priority queue)
  */
 
 public class PriorityQueue <Key extends Comparable<Key>> {

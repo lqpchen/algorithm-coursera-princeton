@@ -59,6 +59,7 @@ public class DiGraph extends Graph {
             dg.addEdge(from[i], to[i]);
         }
         dg.print();
+        System.out.println();
         dg.reverse().print();
     }
 }

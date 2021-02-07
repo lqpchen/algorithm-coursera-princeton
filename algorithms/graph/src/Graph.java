@@ -1,3 +1,6 @@
+/*
+unweighted graph only
+ */
 public abstract class Graph {
 
     // adjacency list representation, since graphs tend to be sparse in real applications

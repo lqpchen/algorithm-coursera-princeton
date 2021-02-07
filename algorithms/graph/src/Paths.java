@@ -6,7 +6,7 @@ public abstract class Paths {
     public Paths(Graph G, int s) {
         marked = new boolean[G.V()];
         edgeTo = new int[G.V()];
-        this.s = s;
+        this.s = s; // starting point
     }
 
     public boolean hasPathTo(int v) {
