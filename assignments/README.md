@@ -7,3 +7,6 @@
 [kd-tree](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php) <br>
 ### Part II
 [WordNet](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php) <br>
+[Seam carving](https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php) <br>
+
+
